@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Sharaz Khalid
 
-## 🚀 Senior Data Analyst | Automation Specialist | Python Developer
+## 🚀 Senior Data Analyst | Healthcare Automation Specialist | Python Developer
 
 Data-driven professional specializing in healthcare automation, EHR systems integration, and process optimization. I transform complex healthcare data challenges into streamlined automation solutions.
 
@@ -19,6 +19,7 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 ## 🛠️ Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
