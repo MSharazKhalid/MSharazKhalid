@@ -44,7 +44,6 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 | [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization |
 | [**NG-HBP-236**](https://github.com/MSharaz918/NG-HBP-236) | NextGen EHR automation with retry mechanisms |
 | [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization |
-| [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application |
 | [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system |
 | [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system |
 | [**Healthcare Data Scraper**](https://github.com/MSharaz918/Healthcare-Data-Scraper) | Multi-platform healthcare data extraction tool |
