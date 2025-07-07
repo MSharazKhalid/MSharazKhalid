@@ -37,14 +37,13 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 
 | Project | Description |
 |---------|-------------|
-
-| [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application |
 | [**PF-SA-279**](https://github.com/MSharaz918/PF-SA-279) | Sleep apnea screening data automation |
 | [**Modmed_EHR**](https://github.com/MSharaz918/Modmed_EHR) | Patient visit data extraction with PDF processing |
-| [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system |
-| [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization |
-| [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system |
 | [**NG-HBP-236**](https://github.com/MSharaz918/NG-HBP-236) | NextGen EHR automation with retry mechanisms |
+| [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization |
+| [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application |
+| [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system |
+| [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system |
 | [**Healthcare Data Scraper**](https://github.com/MSharaz918/Healthcare-Data-Scraper) | Multi-platform healthcare data extraction tool |
 | [**Automated Report Generator**](https://github.com/MSharaz918/Auto-Report-Generator) | Automated healthcare compliance report generation |
 | [**Email Automation Suite**](https://github.com/MSharaz918/Email-Automation-Suite) | Automated email campaigns and follow-up system |
@@ -95,3 +94,5 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 **"Transforming healthcare through intelligent automation and data-driven insights"**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=MSharaz918&color=brightgreen&style=flat-square)
+
+
