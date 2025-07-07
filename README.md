@@ -10,35 +10,41 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 
 - 🔬 **Senior Data Analyst** with expertise in healthcare data automation and MIPS compliance
 - 🏥 **Healthcare Domain Expert** specializing in EHR systems (Practice Fusion, ModMed, NextGen)
-- 🤖 **Automation Specialist** developing Python solutions for clinical data extraction
-- 📊 **Process Optimizer** focused on reducing manual workflows and improving data accuracy
+- 🤖 **Automation Specialist** developing Python & PHP solutions for clinical data extraction
+- 📊 **Process Optimizer** focused on reducing manual workflows and B2B lead generation
+- 🌐 **Web Developer** creating custom applications and automation tools
 
 ---
 
 ## 🛠️ Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**Specializations:** EHR Integration • Web Automation • Data Mining • MIPS Compliance • PDF Processing • Quality Measures
+**Specializations:** EHR Integration • Web Automation • Data Mining • B2B Lead Generation • MIPS Compliance • PDF Processing • PHP Development
 
 ---
 
-## 🏥 Healthcare Automation Projects
+## 🏥 Healthcare & Automation Projects
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [**PF-HBP-236**](https://github.com/MSharaz918/PF-HBP-236) | Blood pressure data extraction for QM236 compliance | Python, Selenium, Excel |
 | [**PF-SA-279**](https://github.com/MSharaz918/PF-SA-279) | Sleep apnea screening data automation | Python, Selenium, Keyword Matching |
 | [**Modmed_EHR**](https://github.com/MSharaz918/Modmed_EHR) | Patient visit data extraction with PDF processing | Python, Selenium, PDF Tools |
 | [**NG-HBP-236**](https://github.com/MSharaz918/NG-HBP-236) | NextGen EHR automation with retry mechanisms | Python, Selenium, Error Handling |
-| [**NG-SS-06-07**](https://github.com/MSharaz918/NG-SS-06-07) | Patient encounter data extraction scripts | Python, Selenium, Data Processing |
 | [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization | Python, PyPDF2, Text Analysis |
 | [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application | Flask, Database Management |
+| [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system | PHP, MySQL, JavaScript, HTML/CSS |
+| [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system | Python, Selenium, Data Mining |
+| [**Healthcare Data Scraper**](https://github.com/MSharaz918/Healthcare-Data-Scraper) | Multi-platform healthcare data extraction tool | Python, Selenium, API Integration |
+| [**Automated Report Generator**](https://github.com/MSharaz918/Auto-Report-Generator) | Automated healthcare compliance report generation | Python, Pandas, Excel Automation |
+| [**Email Automation Suite**](https://github.com/MSharaz918/Email-Automation-Suite) | Automated email campaigns and follow-up system | Python, SMTP, Template Engine |
 
 ---
 
