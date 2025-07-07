@@ -22,6 +22,7 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -34,18 +35,18 @@ Data-driven professional specializing in healthcare automation, EHR systems inte
 
 ## 🏥 Healthcare & Automation Projects
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [**PF-SA-279**](https://github.com/MSharaz918/PF-SA-279) | Sleep apnea screening data automation | Python, Selenium, Keyword Matching |
-| [**Modmed_EHR**](https://github.com/MSharaz918/Modmed_EHR) | Patient visit data extraction with PDF processing | Python, Selenium, PDF Tools |
-| [**NG-HBP-236**](https://github.com/MSharaz918/NG-HBP-236) | NextGen EHR automation with retry mechanisms | Python, Selenium, Error Handling |
-| [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization | Python, PyPDF2, Text Analysis |
-| [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application | Flask, Database Management |
-| [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system | PHP, MySQL, JavaScript, HTML/CSS |
-| [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system | Python, Selenium, Data Mining |
-| [**Healthcare Data Scraper**](https://github.com/MSharaz918/Healthcare-Data-Scraper) | Multi-platform healthcare data extraction tool | Python, Selenium, API Integration |
-| [**Automated Report Generator**](https://github.com/MSharaz918/Auto-Report-Generator) | Automated healthcare compliance report generation | Python, Pandas, Excel Automation |
-| [**Email Automation Suite**](https://github.com/MSharaz918/Email-Automation-Suite) | Automated email campaigns and follow-up system | Python, SMTP, Template Engine |
+| Project | Description |
+|---------|-------------|
+| [**PF-SA-279**](https://github.com/MSharaz918/PF-SA-279) | Sleep apnea screening data automation |
+| [**Modmed_EHR**](https://github.com/MSharaz918/Modmed_EHR) | Patient visit data extraction with PDF processing |
+| [**NG-HBP-236**](https://github.com/MSharaz918/NG-HBP-236) | NextGen EHR automation with retry mechanisms |
+| [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization |
+| [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application |
+| [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system |
+| [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system |
+| [**Healthcare Data Scraper**](https://github.com/MSharaz918/Healthcare-Data-Scraper) | Multi-platform healthcare data extraction tool |
+| [**Automated Report Generator**](https://github.com/MSharaz918/Auto-Report-Generator) | Automated healthcare compliance report generation |
+| [**Email Automation Suite**](https://github.com/MSharaz918/Email-Automation-Suite) | Automated email campaigns and follow-up system |
 
 ---
 
