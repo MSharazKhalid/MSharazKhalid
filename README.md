@@ -80,8 +80,8 @@ Focused, production-tested utilities pulled out of real engagements and cleaned 
 | Tool | What it does | Stack |
 |---|---|---|
 | **[nppes-npi-scraper](https://github.com/MSharazKhalid/nppes-npi-scraper)** | Bulk-resolves NPI numbers against the CMS NPPES registry and writes each provider's primary practice address back into Excel | Python · Selenium · openpyxl |
-| **[pdf-section-extractor](https://github.com/MSharazKhalid/pdf-section-extractor)** | Extracts text from a folder of PDFs by whole page, by named section, or below a section heading — with a bounding-box visualiser for calibrating coordinates | Python · PyMuPDF |
-| **[pdf-keyword-search](https://github.com/MSharazKhalid/pdf-keyword-search)** | Finds any phrase, or every value in an Excel column, inside a PDF and reports the exact page of each hit | Python · pdfplumber |
+| **[pdf-section-extractor](https://github.com/MSharazKhalid/pdf-section-extractor)** | Extracts text from a folder of PDFs by whole page, by named section, or below a section heading — with a bounding-box visualiser for calibrating coordinates | Python · pdfplumber · Pillow |
+| **[pdf-keyword-search](https://github.com/MSharazKhalid/pdf-keyword-search)** | Finds any phrase, or every value in an Excel column, inside a PDF and reports the exact page of each hit | Python · PyMuPDF · openpyxl |
 | **[ringcentral-fax-auto](https://github.com/MSharazKhalid/ringcentral-fax-auto)** | Drives the RingCentral web app to fax a PDF to every number in a Google Sheet, with human-like pacing and per-row status write-back | Python · Selenium · Sheets API |
 | **[outlook-bulk-email](https://github.com/MSharazKhalid/outlook-bulk-email)** | Sends personalised HTML email to an Excel mailing list through desktop Outlook — rotates sender identities, batches sends, writes delivery status back | Python · pywin32 |
 | **[measure-238-apps-script](https://github.com/MSharazKhalid/measure-238-apps-script)** | Flags MIPS Measure 238 high-risk medications by drug class, firing only when two or more same-class orders appear for a patient | Google Apps Script |
