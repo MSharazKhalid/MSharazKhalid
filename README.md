@@ -73,13 +73,11 @@ Small Python tools from my day-to-day work, cleaned of all client data and share
 
 | Tool | What it does |
 |---|---|
-| **[nppes-npi-scraper](https://github.com/MSharazKhalid/nppes-npi-scraper)** | Looks up a list of NPI numbers on the CMS NPPES registry and writes each provider's practice address back into Excel |
 | **[pdf-section-extractor](https://github.com/MSharazKhalid/pdf-section-extractor)** | Pulls text from a folder of PDFs by full page, by a named section, or from below a section heading |
 | **[pdf-keyword-search](https://github.com/MSharazKhalid/pdf-keyword-search)** | Finds a phrase, or every value in an Excel column, inside a PDF and shows the page number of each match |
 | **[ringcentral-fax-auto](https://github.com/MSharazKhalid/ringcentral-fax-auto)** | Faxes a PDF to every number in a Google Sheet through RingCentral and records the result for each row |
 | **[outlook-bulk-email](https://github.com/MSharazKhalid/outlook-bulk-email)** | Sends HTML emails to an Excel list through Outlook, switching between sender accounts and logging each send |
 | **[measure-238-apps-script](https://github.com/MSharazKhalid/measure-238-apps-script)** | Google Sheets script that flags MIPS Measure 238 high-risk medications when a patient has 2+ orders from the same drug class |
-| **[excel-final-file-builder](https://github.com/MSharazKhalid/excel-final-file-builder)** | Turns a formatted Excel export into a clean final file ready for submission |
 
 ---
 
@@ -91,6 +89,8 @@ Client and internal work, kept private. Happy to show a demo.
 |---|---|
 | **EHR Automation Scripts** | 80+ Python and Selenium scripts that extract visit data for MIPS measures from 11 EHR systems, including Practice Fusion, NextGen, Epic, eClinicalWorks, Elation Health, AdvancedMD, DrChrono, ModMed and Tebra. Built to run long batches without losing progress. |
 | **MIPS Measure Filter** | Web app where staff upload an Excel report, choose or build a measure's rules, and download a filtered workbook. Replaced a manual filtering process. |
+| **NPPES NPI Lookup** | Looks up a list of NPI numbers on the CMS NPPES registry and writes each provider's practice address back into Excel. |
+| **Excel Final File Builder** | Turns a formatted Excel export into a clean final file ready for submission. |
 | **HCFA-1500 Claim Tools** | Reads multi-page claim PDFs and turns each service line into a spreadsheet row with patient details, ICD codes, CPT codes and charges. |
 | **Prime Well** | Portal where physicians upload documents and admins review them, with separate dashboards for each role. |
 | **IndexMeNow** | Tool that submits website URLs to search engines through several indexing methods and tracks which ones get indexed. |
