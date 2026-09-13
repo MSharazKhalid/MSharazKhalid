@@ -124,15 +124,6 @@ Client and internal work, kept private. Happy to show a demo.
 
 ---
 
-## GitHub
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MSharazKhalid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&hide=issues" alt="GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSharazKhalid&layout=compact&hide_border=true&title_color=0A66C2&langs_count=6" alt="Top languages">
-</p>
-
----
-
 ## Work with me
 
 I take on freelance and remote work, especially where healthcare or business data is handled by hand today: MIPS reporting, data cleanup, PDF and Excel processing, or pulling data out of systems that don't export it easily.
