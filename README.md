@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sharaz-khalid-b50911239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sharazkhalid/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:sharazkhalid93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Lahore,_Pakistan-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
   <img src="https://img.shields.io/badge/Open_to-Freelance_&_Remote-2ea44f?style=flat-square" alt="Availability">
@@ -131,5 +131,5 @@ I take on freelance and remote work, especially where healthcare or business dat
 <p align="left">
   <a href="mailto:sharazkhalid93@gmail.com"><img src="https://img.shields.io/badge/sharazkhalid93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/sharaz-khalid-b50911239/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/sharazkhalid/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
