@@ -17,7 +17,7 @@ I build automation that removes manual work from regulated, high-volume workflow
 
 Most of my work lives in US healthcare: extracting clinical data out of EHR platforms that were never designed to be queried, and turning CMS quality-measure rules into software that runs reliably against real patient data. The same engineering holds up outside healthcare — browser automation, document pipelines, and production SaaS — so I work across both.
 
-Currently **Senior Data Analyst at DigiEvolve**, where I own the automation and MIPS reporting stack.
+Computer Science graduate of **UET Lahore**, with four years in healthcare data. Currently **Senior Data Analyst at DigiEvolve**, where I own the automation and MIPS reporting stack.
 
 ---
 
@@ -117,14 +117,29 @@ Built for clients and kept private. I am happy to walk through the architecture,
 
 ## Experience
 
-**Senior Data Analyst** — DigiEvolve &nbsp;·&nbsp; *March 2025 – Present*
+**Senior Data Analyst** — DigiEvolve &nbsp;·&nbsp; *April 2025 – Present*
+**Data Analyst** — DigiEvolve &nbsp;·&nbsp; *October 2024 – March 2025*
 
 - Own the automation and MIPS quality-reporting stack across a portfolio of US healthcare clients
 - Build and maintain clinical data-extraction tooling spanning 13 EHR platforms
 - Translate CMS quality-measure specifications into tested, reusable rule engines
 - Develop internal web applications that put automation directly in client hands
+- Lead a team of analysts and coordinate cross-functional data initiatives
 
-**Earlier** &nbsp; Data Analyst, healthcare performance analysis · Data Specialist, compliance and documentation · Growth Associate, user behaviour analysis and A/B testing
+**Data Specialist** — Sourcing Solutions &nbsp;·&nbsp; *June – November 2024*
+&nbsp;&nbsp;Export data integrity and compliance reporting on SAP ERP.
+
+**Growth Associate → Data Operations Specialist** — Healthwire &nbsp;·&nbsp; *August 2022 – May 2024*
+&nbsp;&nbsp;Healthcare platform. User behaviour analysis, A/B testing and retention campaigns; before that, data verification and reporting.
+
+**Freelance — B2B Data Extraction** &nbsp;·&nbsp; *July 2020 – August 2022*
+&nbsp;&nbsp;Lead sourcing and data enrichment for sales teams, delivered through Fiverr.
+
+---
+
+## Education
+
+**BSc Computer Science** — University of Engineering and Technology (UET), Lahore &nbsp;·&nbsp; *2020 – 2024*
 
 ---
 
