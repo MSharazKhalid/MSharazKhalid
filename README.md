@@ -1,98 +1,150 @@
-# 👋 Hi, I'm Sharaz Khalid
+<h1 align="center">Muhammad Sharaz Khalid</h1>
 
-## 🚀 Senior Data Analyst | Automation Specialist | Python Developer
+<p align="center">
+  <b>Healthcare Automation Engineer</b> &nbsp;·&nbsp; Python &nbsp;·&nbsp; Full-Stack TypeScript &nbsp;·&nbsp; Data Engineering
+</p>
 
-Data-driven professional specializing in healthcare automation, EHR systems integration, and process optimization. I transform complex healthcare data challenges into streamlined automation solutions.
-
----
-
-## 🎯 About Me
-
-- 🔬 **Senior Data Analyst** with expertise in healthcare data automation and MIPS compliance
-- 🏥 **Healthcare Domain Expert** specializing in EHR systems (Practice Fusion, ModMed, NextGen)
-- 🤖 **Automation Specialist** developing Python & PHP solutions for clinical data extraction
-- 📊 **Process Optimizer** focused on reducing manual workflows and B2B lead generation
-- 🌐 **Web Developer** creating custom applications and automation tools
+<p align="center">
+  <a href="https://www.linkedin.com/in/sharaz-khalid-b50911239/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:sharazkhalid93@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Lahore,_Pakistan-555?style=flat-square&logo=googlemaps&logoColor=white" alt="Location">
+  <img src="https://img.shields.io/badge/Open_to-Freelance_&_Remote-2ea44f?style=flat-square" alt="Availability">
+</p>
 
 ---
 
-## 🛠️ Technical Skills
+I build automation that removes manual work from regulated, high-volume workflows — and the web applications that put that automation in a client's hands.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+Most of my work lives in US healthcare: extracting clinical data out of EHR platforms that were never designed to be queried, and turning CMS quality-measure rules into software that runs reliably against real patient data. The same engineering holds up outside healthcare — browser automation, document pipelines, and production SaaS — so I work across both.
 
-**Specializations:** EHR Integration • Web Automation • Data Mining • B2B Lead Generation • MIPS Compliance • PDF Processing • PHP Development
+Currently **Senior Data Analyst at DigiEvolve**, where I own the automation and MIPS reporting stack.
 
 ---
 
-## 🏥 Healthcare & Automation Projects
+## What I do
 
-| Project | Description |
-|---------|-------------|
-| [**MeasureFilter_DB**](https://github.com/MSharaz918/MeasureFilter_DB) | MIPS measure filtering web application |
-| [**PF-SA-279**](https://github.com/MSharaz918/PF-SA-279) | Sleep apnea screening data automation |
-| [**PDF_Extraction**](https://github.com/MSharaz918/PDF_Extraction) | Advanced PDF text extraction and visualization |
-| [**Modmed_EHR**](https://github.com/MSharaz918/Modmed_EHR) | Patient visit data extraction with PDF processing |
-| [**B2B Lead Generation Bot**](https://github.com/MSharaz918/B2B-Lead-Generator) | Automated lead scraping and qualification system |
-| [**NG-HBP-236**](https://github.com/MSharaz918/NG-HBP-236) | NextGen EHR automation with retry mechanisms |
-| [**Virtual Reminder App**](https://github.com/MSharaz918/Virtual-Reminder-App) | Web-based reminder and task management system |
-| [**Healthcare Data Scraper**](https://github.com/MSharaz918/Healthcare-Data-Scraper) | Multi-platform healthcare data extraction tool |
-| [**Automated Report Generator**](https://github.com/MSharaz918/Auto-Report-Generator) | Automated healthcare compliance report generation |
-| [**Email Automation Suite**](https://github.com/MSharaz918/Email-Automation-Suite) | Automated email campaigns and follow-up system |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### Healthcare Automation
 
-## 🏆 Key Achievements
+Clinical data extraction across **13 EHR platforms** — Practice Fusion, NextGen, Epic, eClinicalWorks, Elation Health, AdvanceMD, DrChrono, ModMed, Tebra, PrognoCIS and PointClickCare.
 
-- 🎯 **90% Reduction** in manual data entry through automation solutions
-- 📈 **500+ Hours Saved** annually through healthcare data automation scripts
-- 🔧 **Multiple EHR Platforms** successfully integrated and automated
-- 📊 **99.5% Accuracy** in automated data extraction processes
-- 📋 **MIPS Compliance** solutions implemented for healthcare quality measures
+MIPS quality-measure logic, ICD/CPT/POS normalisation, HCFA-1500 claim parsing, NPPES provider lookup.
 
----
+</td>
+<td width="33%" valign="top">
 
-## 💼 Professional Experience
+### Full-Stack Development
 
-**DigiEvolve** - Senior Data Analyst *(March 2025 - Present)*
-- Leading automation initiatives and MIPS compliance reporting
-- Managing data extraction from diverse healthcare systems
-- Developing RPA solutions using Python and Excel automation
-- Building optimization models for operational efficiency
+Production web apps end to end — **Fastify**, **Next.js 14**, **React**, **Flask**, **PostgreSQL**, **Supabase**, **Redis**, **BullMQ**.
 
-**Previous Roles:**
-- Data Analyst specializing in healthcare performance analysis
-- Data Specialist with focus on compliance and documentation
-- Growth Associate with expertise in user behavior analysis and A/B testing
+Auth and RBAC, row-level security, background job queues, credit and billing systems, admin consoles, transactional email.
+
+</td>
+<td width="33%" valign="top">
+
+### Data & Process Automation
+
+Browser automation at scale with **Selenium** — session reuse, retry and resume, checkpointed progress, human-paced throttling.
+
+Document and spreadsheet pipelines with **pandas**, **openpyxl**, **pdfplumber**, **PyMuPDF**, Google Sheets and Apps Script.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📊 GitHub Statistics
+## Tech stack
 
-![Sharaz's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MSharaz918&show_icons=true&theme=radical&count_private=true)
+**Languages** &nbsp; Python · TypeScript · JavaScript · SQL · PHP · C
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MSharaz918&layout=compact&theme=radical)
+**Backend** &nbsp; Fastify · Flask · Node.js · Prisma · SQLAlchemy · REST APIs · BullMQ · Redis
+
+**Frontend** &nbsp; Next.js 14 (App Router) · React 18 · Vite · Tailwind CSS · shadcn/ui · TanStack Query
+
+**Data** &nbsp; PostgreSQL · MySQL · SQLite · Supabase · pandas · NumPy · openpyxl
+
+**Automation** &nbsp; Selenium · BeautifulSoup · pdfplumber · PyMuPDF · pywin32 · Google Apps Script · Sheets API
+
+**Infrastructure** &nbsp; Docker · Turborepo · Railway · Git · GitHub Actions
 
 ---
 
-## 🤝 Let's Connect!
+## Open-source tools
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sharaz-khalid-b50911239)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharazkhalid93@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MSharaz918)
+Focused, production-tested utilities pulled out of real engagements and cleaned up for public use.
+
+| Tool | What it does | Stack |
+|---|---|---|
+| **[nppes-npi-scraper](https://github.com/MSharazKhalid/nppes-npi-scraper)** | Bulk-resolves NPI numbers against the CMS NPPES registry and writes each provider's primary practice address back into Excel | Python · Selenium · openpyxl |
+| **[pdf-section-extractor](https://github.com/MSharazKhalid/pdf-section-extractor)** | Extracts text from a folder of PDFs by whole page, by named section, or below a section heading — with a bounding-box visualiser for calibrating coordinates | Python · PyMuPDF |
+| **[pdf-keyword-search](https://github.com/MSharazKhalid/pdf-keyword-search)** | Finds any phrase, or every value in an Excel column, inside a PDF and reports the exact page of each hit | Python · pdfplumber |
+| **[ringcentral-fax-auto](https://github.com/MSharazKhalid/ringcentral-fax-auto)** | Drives the RingCentral web app to fax a PDF to every number in a Google Sheet, with human-like pacing and per-row status write-back | Python · Selenium · Sheets API |
+| **[outlook-bulk-email](https://github.com/MSharazKhalid/outlook-bulk-email)** | Sends personalised HTML email to an Excel mailing list through desktop Outlook — rotates sender identities, batches sends, writes delivery status back | Python · pywin32 |
+| **[measure-238-apps-script](https://github.com/MSharazKhalid/measure-238-apps-script)** | Flags MIPS Measure 238 high-risk medications by drug class, firing only when two or more same-class orders appear for a patient | Google Apps Script |
+| **[excel-final-file-builder](https://github.com/MSharazKhalid/excel-final-file-builder)** | Turns a raw formatted Excel export into a clean, submission-ready workbook in a single run | Python · pandas · openpyxl |
 
 ---
 
-**"Transforming healthcare through intelligent automation and data-driven insights"**
+## Client work
 
-![Profile Views](https://komarev.com/ghpvc/?username=MSharaz918&color=brightgreen&style=flat-square)
+Built for clients and kept private. I am happy to walk through the architecture, the code and the decisions behind it on a call.
 
+<table>
+<tr><th align="left" width="26%">Project</th><th align="left">What it does</th></tr>
 
+<tr><td valign="top"><b>EHR Automation Suite</b><br><sub>Python · Selenium</sub></td>
+<td><b>94 automation scripts spanning 13 EHR platforms</b>, organised per platform and per CMS quality measure. Handles authenticated session reuse, retry-and-resume against flaky clinical UIs, checkpointed progress so a long run survives interruption, and incremental write-back so no extracted record is lost mid-run.</td></tr>
+
+<tr><td valign="top"><b>IndexMeNow</b><br><sub>Fastify 5 · Next.js 14 · PostgreSQL · Redis</sub></td>
+<td>Multi-tenant SaaS that accelerates Google indexing by firing <b>six indexing signals in parallel</b> per URL — Google Indexing API, GSC URL Inspection, sitemap ping, RSS/WebSub, IndexNow and crawl-trigger cache busting. A seven-point pre-flight health check means a credit is never spent on a bad URL, and a 10-day verification cycle refunds the credit automatically if the URL still is not indexed. Adds atomic credit accounting with Redis-cached balances, API-key access for programmatic submission, a WordPress auto-submit plugin, and an admin console over live BullMQ queue state. Turborepo monorepo with Dockerised Postgres and Redis.</td></tr>
+
+<tr><td valign="top"><b>MIPS Denominator Engine</b><br><sub>Flask · React · pandas</sub></td>
+<td>Web app that turns CMS quality-measure definitions into a reusable rule library. A four-step wizard takes the user from Excel upload through column mapping to processing and download. The engine evaluates <b>nested AND/OR/NOT logic plus patient-level predicates</b> — exclude-patient, patient-has, minimum-count — computes age at the anchor visit date rather than trusting a static column, and normalises messy real-world codes: ICD/CPT wildcard matching, dot stripping, Excel float artefacts (<code>95.0</code> → <code>95</code>) and restored leading zeros (<code>POS 2</code> → <code>02</code>). Covered by an engine test suite.</td></tr>
+
+<tr><td valign="top"><b>Prime Well</b><br><sub>React · TypeScript · Supabase</sub></td>
+<td>Role-separated clinical document platform with distinct admin and physician dashboards. Supabase Auth with <b>row-level security enforced in the database</b>, so a physician reaches only their own records and an admin only their assigned physicians. Includes a document upload and review workflow, private storage buckets with access policies, progress reporting, activity logs, in-app notifications and transactional email.</td></tr>
+
+<tr><td valign="top"><b>Office Ally Billing Tools</b><br><sub>Python · pdfplumber</sub></td>
+<td>Parses multi-page HCFA-1500 claim PDFs into one spreadsheet row per service line — patient demographics, Box 21 diagnosis codes, and Box 24 procedure codes with modifiers, charges, units and rendering provider. Paired with a chart-level ICD scraper that recycles its browser on a fixed interval and autosaves throughout, so long unattended runs finish cleanly.</td></tr>
+
+</table>
+
+---
+
+## Experience
+
+**Senior Data Analyst** — DigiEvolve &nbsp;·&nbsp; *March 2025 – Present*
+
+- Own the automation and MIPS quality-reporting stack across a portfolio of US healthcare clients
+- Build and maintain clinical data-extraction tooling spanning 13 EHR platforms
+- Translate CMS quality-measure specifications into tested, reusable rule engines
+- Develop internal web applications that put automation directly in client hands
+
+**Earlier** &nbsp; Data Analyst, healthcare performance analysis · Data Specialist, compliance and documentation · Growth Associate, user behaviour analysis and A/B testing
+
+---
+
+## GitHub
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=MSharazKhalid&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0A66C2&icon_color=0A66C2&hide=issues" alt="GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSharazKhalid&layout=compact&hide_border=true&title_color=0A66C2&langs_count=8" alt="Top languages">
+</p>
+
+---
+
+## Work with me
+
+I take on automation and full-stack work, both freelance and long-term remote. I am most useful where a workflow is **repetitive, high-volume and expensive to get wrong** — clinical data extraction, regulatory reporting, document pipelines, or an internal tool replacing a spreadsheet nobody trusts any more.
+
+If a project above is private, just ask and I will walk you through it.
+
+<p align="left">
+  <a href="mailto:sharazkhalid93@gmail.com"><img src="https://img.shields.io/badge/sharazkhalid93@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sharaz-khalid-b50911239/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
